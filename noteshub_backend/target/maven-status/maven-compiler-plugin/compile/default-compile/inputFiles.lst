@@ -1,0 +1,16 @@
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\controller\AuthController.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\controller\ProtectedTestController.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\dto\JwtResponse.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\dto\LoginRequest.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\dto\LoginResponse.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\dto\SignupRequest.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\entity\User.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\NotesHubApplication.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\repository\UserRepository.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\security\JwtAuthenticationFilter.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\security\JwtService.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\security\SecurityConfig.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\security\WebConfig.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\service\AuthService.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\service\CustomUserDetailsService.java
+C:\Users\ujjwa\Desktop\NotesHub-Service\src\main\java\com\noteshub\util\JwtUtil.java
